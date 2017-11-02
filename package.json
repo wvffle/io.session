@@ -1,0 +1,28 @@
+{
+  "name": "io.session",
+  "version": "1.0.0",
+  "description": "Session middleware for socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvffle/io.session.git"
+  },
+  "keywords": [
+    "socket.io",
+    "session",
+    "express"
+  ],
+  "author": "wvffle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wvffle/io.session/issues"
+  },
+  "homepage": "https://github.com/wvffle/io.session#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3"
+  }
+}
